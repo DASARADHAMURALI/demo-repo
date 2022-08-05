@@ -1,2 +1,2 @@
 # demo-repo
-wellcom
+welcome
